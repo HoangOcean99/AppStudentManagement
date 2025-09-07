@@ -12,9 +12,8 @@
 
 ## 📂 Cấu trúc thư mục
 project/
-  ├── .setting/
-  ├── bin/View
-  └── src/
+├── bin/View
+└── src/
 
 ---
 
