@@ -6,7 +6,9 @@
 ---
 
 ## 🚀 Features
-- ✨ Feature 1: user can do every calculating as calculator
+- ✨ Feature 1: User can manage student
+- ✨ Feature 2: User can find student by name and address
+
 
 ---
 
